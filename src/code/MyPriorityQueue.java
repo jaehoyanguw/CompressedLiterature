@@ -1,7 +1,7 @@
 /*
  * Assignment 4 Compressed Literature 2
  * 
- * Louis Yang, Michael Wilson
+ * Louis Yang
  * Extra Credits Finished please check!
  *
  */

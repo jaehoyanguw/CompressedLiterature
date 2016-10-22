@@ -1,7 +1,7 @@
 /*
  * Assignment 4 Compressed Literature 2
  * 
- * Louis Yang, Michael Wilson
+ * Louis Yang
  * Extra Credits Finished please check!
  *
  */
@@ -10,7 +10,7 @@ package code;
 /**
  * Coding Tree class used for Compressed Literature Program.
  * 
- * @author Louis Yang, Michael Wilson
+ * @author Louis Yang
  * @version 1.0
  *
  */
